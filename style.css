@@ -1,0 +1,211 @@
+/*
+Theme Name: Sparks Child
+Theme URI: http://sparks.mikado-themes.com/
+Description: A child theme of Sparks Theme
+Author: Mikado Themes
+Author URI: http://themeforest.net/user/mikado-themes
+Version: 1.0.0
+Text Domain: sparks
+Template: sparks
+*/
+
+.mkd-testimonial-content .mkd-separator{
+	border-color: #dd105e !important;
+}
+
+.icon i{
+	color: #dd105e !important;
+}
+
+.mkd-separator{
+	border-color: #dd105e !important;
+}
+
+.mkd-testimonial-content .mkd-testimonial-text{
+	font-style: italic !important;
+	font-size: 16px !important;
+    line-height: 21px !important;
+}
+
+.mkd-drop-down .left-icon-position .menu_icon_wrapper i {
+    width: 24px;
+    height: auto;
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    color: inherit;
+    line-height: inherit;
+}
+
+.mkd-page-header .mkd-drop-down .second .inner ul li a {
+    padding: 5px 20px;
+}
+
+.wpcf7 form{
+    text-align: center;
+}
+
+.mkd-unordered-list ul>li.mkd-list-item .text {
+    line-height: 24px !important;
+}
+
+footer .mkd-footer-top .widget .footer-links li{
+    line-height: 1.4em;
+    margin: 0;
+    padding: 10px 0;
+}
+
+footer .mkd-footer-top .widget .footer-links li:first-child{
+    padding-top: 0;
+}
+
+footer .mkd-footer-top .widget .footer-links li a{
+    color: #ccc;
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: inherit;
+}
+
+footer .mkd-footer-top .widget .footer-links li a:hover{
+    color: #dd105e;
+}
+
+.wpb_wrapper p{
+line-height: 1.7333333333em !important;
+}
+
+#mkd-back-to-top.on {
+  bottom: 105px;
+}
+
+.experts-icons-block img{
+	width: 120px;
+}
+
+.menu-custom-button a .item_outer{
+	border-radius: 100px;
+    border-width: 2px;
+	color: #dd105e;
+    border-style: solid;
+    border-color: #dd105e;
+    transition: all 0.3s ease;
+    padding: 0.6em 1.5em !important;
+}
+
+.menu-custom-button a .item_outer:hover{
+	color: #ffffff;
+    background-color: #dd105e;
+	cursor: pointer;
+}
+
+.mkd-main-menu>ul>li a:hover{
+    border: 0 0 3px solid rgba(255, 0, 0, 0) !important;
+	border-color: transparent !important;
+	color: #dd105e !important;
+}
+
+.mkd-main-menu>ul>li a.current {
+	color: #dd105e !important;
+    border: 0 0 3px solid rgba(255, 0, 0, 0) !important;
+	border-color: transparent !important;
+}
+
+.mkd-main-menu ul li .second a:hover {
+	color: #dd105e !important;
+}
+
+.mkd-drop-down .second .inner>ul>li:hover>a {
+   color: #dd105e !important;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu>ul>li:hover>a, .mkd-page-header .mkd-sticky-header .mkd-search-opener:hover, .mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener:hover {
+    color: #dd105e !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.mkd-page-header .mkd-main-menu>ul>li>a.current, .mkd-page-header .mkd-main-menu>ul>li>a:hover {
+    border: 0 0 3px solid rgba(255, 0, 0, 0) !important;
+	border-color: transparent !important;
+}
+
+.mkd-drop-down .second .inner ul li a:before {
+    background: #dd105e !important;
+}
+
+.mkd-drop-down .second .inner ul li ul li:hover>a, .mkd-drop-down .second .inner ul li.current-menu-item>a, .mkd-drop-down .second .inner ul li.sub ul li:hover>a, .mkd-drop-down .second .inner>ul>li:hover>a {
+    color: #dd105e !important;
+}
+
+.mkd-main-menu>ul>li.menu-custom-button>a:hover,
+.mkd-main-menu>ul>li.menu-custom-button>a.current {
+    border: 0 0 3px solid rgba(255, 0, 0, 0) !important;
+	border-color: transparent !important;
+    cursor: default;
+}
+
+.mkd-menu-area .mkd-grid .mkd-main-menu.mkd-default-nav > ul > li {
+    margin: 0 2px !important;
+}
+
+.go-to-next {
+    color: #fff;
+	display: block;
+	text-align: center !important;
+}
+
+.go-to-next:hover {
+    color: #fff;
+}
+
+.go-to-next span{
+	margin-top: 5px !important;
+    -webkit-transition:all 1s ease !important;
+       -moz-transition:all 1s ease !important;
+        -ms-transition:all 1s ease !important;
+         -o-transition:all 1s ease !important;
+            transition:all zz1s ease !important;
+}
+
+.go-to-next:hover span{
+	margin-top: 20px !important;
+}
+
+.s-custom-block-styles .mkd-iwt-link{
+	margin-top: 0px !important;
+	color: #000000;
+    font-size: 19px;
+    line-height: 23px;
+    font-weight: 400;
+}
+
+.s-custom-block-styles .mkd-iwt-link:hover{
+	color: #dd105e;
+}
+
+.s-custom-block-styles .mkd-iwt-link-image img:hover{
+	opacity: 0.5;
+}
+
+#mkd_side_area_opener-4{
+	display: none;
+}
+
+.wpcf7 .wpcf7-validation-errors{
+	display: none !important;
+}
+
+.wpcf7 .wpcf7-not-valid-tip{
+    margin-left: 6px;
+    text-align: left;
+    color: #dd105e !important;
+    border: none !important;
+    left: 0 !important;
+    margin-top: -10px;
+}
+
+.wpcf7 textarea{
+    resize: none;
+}
+
