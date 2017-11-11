@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1200px) {
+    .mkd-main-menu.mkd-default-nav > ul > li > a span.item_inner,
+    .mkd-main-menu>ul>li>a span.item_inner {
+        padding: 0 10px;
+    }
+    .mkd-mobile-header .mkd-mobile-logo-wrapper a {
+        height: 80px !important;
+    }
+}

@@ -1,0 +1,53 @@
+footer .mkd-footer-bottom-holder{
+    background-color: #041d26;
+}
+footer .mkd-footer-top-holder{
+    background-color: #052733;
+}
+
+footer .mkd-footer-top .widget .mkd-widget-title-holder {
+    margin-bottom: 15px;
+}
+footer .mkd-footer-top .widget .mkd-widget-title-holder .mkd-widget-title{
+    font-size: 16px;
+}
+footer .mkd-footer-top .widget ul li{
+    font-size: 12px;
+    line-height: 18px;
+    padding: 7px 0;
+}
+footer .mkd-footer-top .widget ul li>a {
+    line-height: 1.8;
+    text-transform: none;
+    font-weight: 300;
+    font-size: 12px;
+    color: #fff;
+}
+footer .mkd-footer-top .widget ul{
+    padding-right: 35px;
+}
+
+.mkd-footer-top .mkd-column:nth-child(2){
+    padding-left: 62px;
+    box-sizing: border-box;
+}
+.mkd-footer-top .mkd-column:nth-child(3){
+    padding-left: 31px;
+    box-sizing: border-box;
+}
+.mkd-footer-top .textwidget {
+    font-size: 12px;
+    padding-left: 2px;
+    line-height: 3;
+}
+.mkd-footer-bottom .textwidget{
+    font-size: 12px;
+}
+footer .mkd-footer-top .widget .footer-links li a:hover,
+footer .mkd-footer-bottom .widget_mkd_social_icon_widget .mkd-icon-shortcode.normal:hover a>i{
+    color: #dd105e;
+}
+
+footer .mkd-footer-top:not(.mkd-footer-top-full) .mkd-container-inner {
+    padding: 95px 0 56px;
+}

@@ -1,0 +1,51 @@
+.mkd-page-header .mkd-menu-area {
+    height: 81px;
+}
+
+
+.mkd-page-header .mkd-main-menu>ul>li>a.current,
+.mkd-page-header .mkd-main-menu>ul>li>a:hover {
+    border-color: #c01d3d;
+}
+
+.mkd-mobile-header .mkd-mobile-nav a,
+.mkd-mobile-header .mkd-mobile-nav h4 {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #151515;
+    border: none;
+}
+.mkd-mobile-header .mkd-mobile-nav .sub_menu a,
+.mkd-mobile-header .mkd-mobile-nav .sub_menu h4 {
+    color: #8d8d8d;
+    border-bottom: 1px solid #eaeaea;
+}
+.mkd-mobile-header .mkd-mobile-nav a:hover,
+.mkd-mobile-header .mkd-mobile-nav h4:hover {
+    color: #dd105e;
+}
+
+.mkd-drop-down .second .inner ul li a:before {
+    background: #dd105e;
+}
+
+.mkd-drop-down .second .inner ul li ul li:hover>a,
+.mkd-drop-down .second .inner ul li.current-menu-item>a,
+.mkd-drop-down .second .inner ul li.sub ul li:hover>a,
+.mkd-drop-down .second .inner>ul>li:hover>a {
+    color: #dd105e;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu>ul>li:hover>a,
+.mkd-page-header .mkd-sticky-header .mkd-search-opener:hover,
+.mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener:hover {
+    color: #dd105e;
+}
+
+.mkd-main-menu ul li.mkd-active-item a,
+.mkd-main-menu ul li:hover a {
+    color: #dd105e;
+}
+.mkd-mobile-header .mkd-mobile-menu-opener a:hover {
+    color: #dd105e
+}

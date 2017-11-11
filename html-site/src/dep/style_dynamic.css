@@ -1,0 +1,46 @@
+.mkd-preload-background { background-image: url(http://seven.wp/wp-content/themes/sparks/assets/img/preload-pattern.png) !important;}
+
+body { font-family: Rubik;}
+
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+.mkd-content .mkd-content-inner > .mkd-full-width > .mkd-full-width-inner { padding-top: 66px;}
+
+.mkd-content .mkd-content-inner > .mkd-container > .mkd-container-inner { padding-top: 66px;}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li.mkd-active-item > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li:hover > a { font-family: Rubik;font-size: 14px;text-transform: uppercase;font-weight: 500;}
+
+
+            .mkd-main-menu.mkd-default-nav > ul > li > a,
+            .mkd-page-header #lang_sel > ul > li > a,
+            .mkd-page-header #lang_sel_click > ul > li > a,
+            .mkd-page-header #lang_sel ul > li:hover > a { font-family: Rubik;font-size: 14px;font-weight: 500;text-transform: uppercase;}
+
+.mkd-page-header #lang_sel_list { font-family: sans-serif !important;}
+
+.mkd-main-menu.mkd-default-nav > ul > li > a span.item_inner { line-height: px;padding: 0 22px;}
+
+
+            .mkd-drop-down .second .inner > ul > li > a,
+			.mkd-drop-down .second .inner > ul > li > h4,
+			.mkd-drop-down .wide .second .inner > ul > li > h4,
+			.mkd-drop-down .wide .second .inner > ul > li > a,
+			.mkd-drop-down .wide .second ul li ul li.menu-item-has-children > a,
+			.mkd-drop-down .wide .second .inner ul li.sub ul li.menu-item-has-children > a,
+			.mkd-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4 a,
+			.mkd-drop-down .wide .second .inner > ul li .flexslider ul li  h4 a,
+			.mkd-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4,
+			.mkd-drop-down .wide .second .inner > ul li .flexslider ul li  h4,
+			.mkd-main-menu.mkd-default-nav #lang_sel ul li li a,
+			.mkd-main-menu.mkd-default-nav #lang_sel_click ul li ul li a,
+			.mkd-main-menu.mkd-default-nav #lang_sel ul ul a,
+			.mkd-main-menu.mkd-default-nav #lang_sel_click ul ul a { font-family: Rubik;font-size: 14px;font-weight: 500;text-transform: uppercase;}
+
+.mkd-header-vertical .mkd-header-vertical .mkd-vertical-menu-area-inner { text-align: center;}
+
+.mkd-btn { font-family: Rubik;font-weight: 300;}
+

@@ -5,7 +5,7 @@
 function sparks_mikado_child_theme_enqueue_scripts() {
 
     $parent_style = 'sparks_mikado_default_style';
-
+    wp_enqueue_style('sparks_mikado_icons', get_stylesheet_directory_uri() . '../assets/fonts/custom_icon.css', array($parent_style));
     wp_enqueue_style('sparks_mikado_child_style', get_stylesheet_directory_uri() . '/style.css', array($parent_style, 'sparks_mikado_modules', 'sparks_mikado_style_dynamic'));
 }
 

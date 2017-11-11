@@ -1,0 +1,33 @@
+@import "var";
+
+.what-do-we-do{
+	float: left;
+	margin-top: -205px;
+	z-index: 20;
+	h3 {
+		color: #fff;
+	}
+	.services{
+		margin-top: 40px;
+	}
+	.icon-box {
+		width: 128px;
+		height: 128px;
+		border-radius: 50%;
+		line-height: 128px;
+		text-align: center;
+		background-color: $secondary;
+		margin: 0 auto;
+		margin-bottom: 24px;
+	}
+	.icocustom {
+		font-size: 50px;
+		color: #fff;
+	}
+	h6 {
+		text-transform: initial;
+		font-size: 20px;
+		color: #062b3a;
+		padding: 0 15px;
+	}
+}

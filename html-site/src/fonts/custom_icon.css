@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'icocustom';
+  src:  url('icocustom.eot?8mq6l4');
+  src:  url('icocustom.eot?8mq6l4#iefix') format('embedded-opentype'),
+    url('icocustom.ttf?8mq6l4') format('truetype'),
+    url('icocustom.woff?8mq6l4') format('woff'),
+    url('icocustom.svg?8mq6l4#icocustom') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icocustom {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icocustom' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: inherit;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icocustom-met_deadlines:before {
+  content: "\e900";
+}
+.icocustom-dedicated_project_manager:before {
+  content: "\e901";
+}
+.icocustom-experience_professionals:before {
+  content: "\e902";
+}
+.icocustom-fast_and_easy_start:before {
+  content: "\e903";
+}
+.icocustom-first_rate_product_quality:before {
+  content: "\e904";
+}
+.icocustom-fully_namaged_by_you:before {
+  content: "\e905";
+}
+.icocustom-increase_end_user_loyalty:before {
+  content: "\e906";
+}
+.icocustom-low_risk_developement:before {
+  content: "\e907";
+}
+.icocustom-no_chargesfor_recruitment:before {
+  content: "\e908";
+}
+.icocustom-no_extre_taxes:before {
+  content: "\e909";
+}
+.icocustom-no_hiring_fees:before {
+  content: "\e90a";
+}
+.icocustom-no_recruiting_and_retention_headache:before {
+  content: "\e90b";
+}
+.icocustom-no_risks:before {
+  content: "\e90c";
+}
+.icocustom-our_industry_exerience:before {
+  content: "\e90d";
+}
+.icocustom-proven_and_trusted_IT:before {
+  content: "\e90e";
+  color: #000;
+}
+.icocustom-reduces_management_risks:before {
+  content: "\e90f";
+}
+.icocustom-unlimited_access_to_resources:before {
+  content: "\e910";
+}
+.icocustom-up_to_60_cost_saving:before {
+  content: "\e911";
+}
+.icocustom-custom_software_developement:before {
+  content: "\e912";
+}
+.icocustom-dedicated_team_for_developement:before {
+  content: "\e913";
+}
+.icocustom-individual_hire:before {
+  content: "\e914";
+}
+.icocustom-managed_services_support:before {
+  content: "\e915";
+}
