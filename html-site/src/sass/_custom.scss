@@ -1,0 +1,177 @@
+
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/yQiAaD56cjx1AooMTSghGfY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/0dTEPzkLWceF7z0koJaX1A.woff2) format('woff2');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Raleway Medium'), local('Raleway-Medium'), url(https://fonts.gstatic.com/s/raleway/v12/Li18TEFObx_yGdzKDoI_ciEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Raleway Medium'), local('Raleway-Medium'), url(https://fonts.gstatic.com/s/raleway/v12/CcKI4k9un7TZVWzRVT-T8_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+
+
+
+// *******//
+
+
+.custom-page-content-title{
+  font-size: 35px;
+  font-weight: 500;
+    color: #062b3a;
+}
+
+.custom-page-content-subtitle{
+  font-size: 18px;
+  font-weight: 300;
+    color: #062b3a;
+margin-bottom: 46px;
+}
+
+.custom-page-row-margin-top{
+  margin-top: 108px;
+}
+
+.custom-page-row-margin-bottom{
+  margin-bottom: 108px;
+}
+
+.custom-page-row-padding-top{
+  padding-top: 108px;
+}
+
+.custom-page-row-padding-bottom{
+  padding-bottom: 108px;
+}
+
+.owl-carousel .owl-item {
+    min-height: 45px !important;
+}
+
+.mkd-testimonials-inner .mkd-grid{
+width: 100% !important;
+}
+
+.mkd-testimonials-holder .mkd-testimonials.mkd-testimonials-slider .mkd-testimonial-text-holder .mkd-testimonial-text-inner .mkd-testimonial-text {
+    padding: 0;
+}
+
+
+
+/*-- old styles  --*/
+.mkd-iwt.mkd-iwt-icon-top .mkd-iwt-icon-holder {
+    margin-bottom: 0;
+}
+
+.wpcf7 form{
+    text-align: center;
+}
+
+.wpcf7 .wpcf7-validation-errors{
+  display: none !important;
+}
+
+.wpcf7 .wpcf7-not-valid-tip{
+    margin-left: 6px;
+    text-align: left;
+    color: #dd105e !important;
+    border: none !important;
+    left: 0 !important;
+    margin-top: -10px;
+}
+
+.wpcf7 textarea{
+    resize: none;
+}
+
+.layer-text-styles{
+    font-family: 'Raleway' !important;
+}
+
+#mkd-back-to-top.on {
+  bottom: 105px;
+}
+
+.experts-icons-block img{
+  width: 120px;
+}
+
+.go-to-next {
+    color: #fff;
+  display: block;
+  font-family: Rubik;
+  text-align: center !important;
+}
+
+.go-to-next:hover {
+    color: #fff;
+}
+
+.go-to-next span{
+  margin-top: 5px !important;
+    -webkit-transition:all 1s ease !important;
+       -moz-transition:all 1s ease !important;
+        -ms-transition:all 1s ease !important;
+         -o-transition:all 1s ease !important;
+            transition:all zz1s ease !important;
+}
+
+.go-to-next:hover span{
+    margin-top: 20px !important;
+}
+
+.s-custom-block-styles .mkd-iwt-link{
+    margin-top: 0px !important;
+    color: #000000;
+    font-size: 19px;
+    line-height: 23px;
+    font-weight: 400;
+}
+
+.s-custom-block-styles .mkd-iwt-link:hover{
+  color: #c01d3d;
+}
+
+.s-custom-block-styles .mkd-iwt-link-image img:hover{
+  opacity: 0.5;
+}
+
+.mkd-testimonial-content .mkd-separator{
+  border-color: #c01d3d!important;
+}
+
+.icon i{
+  color: #c01d3d!important;
+}
+
+.mkd-testimonial-content .mkd-testimonial-text{
+  font-style: italic !important;
+  font-size: 16px !important;
+    line-height: 20px !important;
+}
+
+#mkd_side_area_opener-4{
+  display: none;
+}
+/*-- end old styles  --*/

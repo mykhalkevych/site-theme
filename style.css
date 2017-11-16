@@ -285,6 +285,14 @@ footer .mkd-footer-bottom .widget_mkd_social_icon_widget .mkd-icon-shortcode.nor
 footer .mkd-footer-top:not(.mkd-footer-top-full) .mkd-container-inner {
   padding: 95px 0 56px; }
 
+@media only screen and (min-width: 1400px) {
+  .mkd-grid-1300 .mkd-container-inner,
+  .mkd-grid-1300 .mkd-footer-bottom-border-holder.mkd-in-grid,
+  .mkd-grid-1300 .mkd-footer-top-border-holder.mkd-in-grid,
+  .mkd-grid-1300 .mkd-grid,
+  .mkd-grid-1300 .mkd-grid-section .mkd-section-inner {
+    width: 1200px; } }
+
 @media only screen and (max-width: 1200px) {
   .mkd-main-menu.mkd-default-nav > ul > li > a span.item_inner,
   .mkd-main-menu > ul > li > a span.item_inner {
