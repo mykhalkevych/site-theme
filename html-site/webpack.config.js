@@ -46,6 +46,10 @@ const baseWebpack = {
 			filename: 'index.html',
 			template: './src/index.html'
 		}),
+		new HtmlWebpackPlugin({
+			filename: 'about.html',
+			template: './src/about.html'
+		}),
 		new CopyWebpackPlugin([
 		{
 			from: path.resolve(__dirname, 'src/fonts'),
